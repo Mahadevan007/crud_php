@@ -1,0 +1,20 @@
+[
+    {
+        "id": "1",
+        "name": "Arun",
+        "emailid": "arun@gmail.com",
+        "degree": "B.E",
+        "address": "Manivakkam",
+        "phone_number": 13123131,
+        "country": "India"
+    },
+    {
+        "id": "2",
+        "name": "Karan",
+        "emailid": "karan@gmail.com",
+        "degree": "B.E",
+        "address": "Porur",
+        "phone_number": "123434234",
+        "country": "India"
+    }
+]
